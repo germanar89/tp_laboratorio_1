@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1570186505 source:c:\users\ger-hp\desktop\ejercicios programacion\tp2\tp2_v1\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1570186505 source:c:\users\ger-hp\desktop\ejercicios programacion\tp2\tp2_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1570185196 c:\users\ger-hp\desktop\ejercicios programacion\tp2\tp2_v1\arrayemployees.h
+
+1570186505 source:c:\users\ger-hp\desktop\nueva carpeta (2)\tp2\tp_laboratorio_2-master\tp2_v1\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1570185196 c:\users\ger-hp\desktop\nueva carpeta (2)\tp2\tp_laboratorio_2-master\tp2_v1\arrayemployees.h
+
+1570186505 source:c:\users\ger-hp\desktop\nueva carpeta (2)\tp2\tp_laboratorio_2-master\tp2_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
